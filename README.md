@@ -4,6 +4,12 @@
 [![Chrome Extension](https://img.shields.io/badge/Platform-Chrome-blue.svg)](https://developer.chrome.com/docs/extensions/)
 [![WebSocket Secure](https://img.shields.io/badge/Protocol-WebSocket-green.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
 
+<p align="center">
+  <img src="./pic/icon.svg" alt="logo" width="200">
+</p>
+
+
+
 ## Overview
 
 **Remote Support Assistant** is a Chrome extension developed as a proof-of-concept for advanced browser-based command-and-control (C2) operations in ethical red teaming and penetration testing scenarios. Disguised as a legitimate remote support tool, it enables operators to establish persistent access, monitor user activity, extract sensitive data, and execute commands in real-time. This project simulates how malicious extensions could be used to infiltrate a victim's browser environment, capturing keystrokes, network activity, and system artifacts while evading detection.
