@@ -4,11 +4,13 @@
 [![Chrome Extension](https://img.shields.io/badge/Platform-Chrome-blue.svg)](https://developer.chrome.com/docs/extensions/)
 [![WebSocket Secure](https://img.shields.io/badge/Protocol-WebSocket-green.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
 
-<p align="center">
+<!-- <p align="center">
   <img src="./pic/icon.svg" alt="logo" width="200">
+</p> -->
+
+<p align="center">
+  <img src="./pic/icon-animated.svg" alt="logo" width="200">
 </p>
-
-
 
 ## Overview
 
